@@ -1,0 +1,13 @@
+{
+  "name": "hashtag-ren",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "start": ""
+  },
+  "dependencies": {
+    "axios": "^0.16.2",
+    "chalk": "^2.1.0",
+    "twitter-node-client": "0.0.6"
+  }
+}
